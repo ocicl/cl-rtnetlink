@@ -4,6 +4,6 @@ A direct Linux NETLINK_ROUTE client for Common Lisp.
 
 |---------+--------------------------------------------------+
 | source  | git:https://github.com/atgreen/cl-rtnetlink.git |
-| commit  | 0000000                                          |
+| commit  | d11ab3d                                          |
 | systems | cl-rtnetlink                                     |
 |---------+--------------------------------------------------+
